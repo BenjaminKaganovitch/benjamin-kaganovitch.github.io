@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="./assets/style/style.css">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<head>
+    <title>Toggle Dark Mode</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="select">
+            <i class="material-icons">palette</i>
+            <select class="select__input" id="selTheme">
+                <option value="auto">Auto</option>
+                <option value="light">Light</option>
+                <option value="dark">Dark</option>
+            </select>
+        </div>
+    </header>
+
+
+    <main class="main">
+        <div class="innerbox">
+            <h2>Celsius to Fahrenheit</h2>
+            <input type="text" id="celsius" placeholder="Celsius (ex. 15)">
+            <input type="button" value="Convert" onclick="toFahrenheit();">
+            <div class="result"><p id="result">Result</p></div>
+        </div>
+       
+        <div class="innerbox">
+            <h2>Fahrenheit to Celsius</h2>
+            <input type="text" id="far" placeholder="Fahrenheit ex. 86">
+            <input type="button" value="Convert" onclick="toCel();">
+            <div class="result1"><p id="result1">Result</p></div>
+        </div>
+        
+    </main>
+</body>
+
+  <script src="./assets/script/script.js"></script>
+  <script>
+
+  </script>
+
+</body>
+</html>
