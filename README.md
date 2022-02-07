@@ -5,5 +5,8 @@ https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_
 Neuromorphic calculator design with negatives and brackets functionality
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Benjamin_Kaganovitch_jsb_project_2_neumorphic_design/calculator/index.html
 
+Guessing game where the program will respond with either higher or lower, untill you guess the right number
+https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Benjamin_Kaganovitch_jsb_project_3_number_game/NumberGame/index.html
+
 
 
