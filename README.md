@@ -1,4 +1,4 @@
-# MITT-notes
+
 ## Collection of assignments and exercises from Intro to Web Development, JavaScript, OO-Javascript
 
 ### Fahrenheit to celsius converter assignment that has conversation from Dark to Light mode:
