@@ -15,6 +15,6 @@ https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_
 
 ### Portfolio and Blog: 
 
-https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/
+https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/TWS-Portfolio-main/TWS-Portfolio-main/HTML-Final_Project/index.html
 
 
