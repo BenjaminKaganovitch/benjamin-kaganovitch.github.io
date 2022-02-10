@@ -13,4 +13,8 @@ https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Benjamin_Kaganovitch_jsb_project_3_number_game/NumberGame/index.html
 
+### Portfolio and Blog: 
+
+https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/
+
 
