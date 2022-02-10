@@ -1,0 +1,41 @@
+.row-container {
+  position: relative;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.row,
+.row-reverse {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.col {
+  width: 100%;
+  padding-left: 14px;
+  padding-top: 8px;
+  margin-bottom: 56px;
+  border: 7px solid rgb(230, 230, 230);
+  box-shadow: 0 12px 12px 0 rgb(0 0 0 / 27%);
+  padding: 44px;
+}
+.col + .col {
+  padding-left: 90px;
+}
+.col-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 6px;
+  height: 100%;
+}
+.col-content img {
+  position: relative;
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 0 12px 12px 0 rgba(0, 0, 0, 0.267);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+}

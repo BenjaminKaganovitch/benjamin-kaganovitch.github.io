@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Benjamin Kaganovitch Portfolio" />
+
+  <title>Contact Me</title>
+
+  <link rel="shortcut icon" href="assets/img/ICONbig.png" type="image/x-icon" />
+  <link rel="stylesheet" href="assets/style/contact-me.css" media="all" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="container">
+
+      <header>
+        <div class="websiteLogo">
+          <img src="assets/img/LogoDarkSmallNew.png">
+        </div>
+
+        <nav>
+          <ul>
+            <li><a href="index.html"> Home</a></li>
+            <li><a href="about-me.html"> About Me</a></li>
+            <li><a href="BlogDisplay.html">Blog</a></li>
+            <li><a href="contact-me.html" class="contact-me"> Contact Me</a></li>
+          </ul>
+        </nav>
+
+
+
+        <div class="mobile-cointainer">
+          <p><i class="fas fa-bars" title="Menu"></i></p>
+        </div>
+
+      </header>
+    </div>
+
+    <div class="headerbanner ">
+      <div class="overlay">
+        <div class="container">
+          <div class="Opening-heading">
+            <h2>Lets Get in Touch</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section>
+      <div class="row-container row">
+        
+
+        <div class="col col-md-6 ">
+          <div class="col-content">
+            <div class="content">
+              <div class="form">
+                <h2><u>Get in Touch</u></h2>
+                <form method="POST" action="#" name="registration">
+                  <input type="text" placeholder="Name" name="first_name"  required>
+                  <input type="email"  placeholder="Email" name="email" required>
+                  <textarea id="message" maxlength="700" rows="6" placeholder="Message" required></textarea>
+                </form>
+                <div>
+                  <input value="Submit" type="Submit" onclick="explainFUNC()">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--Creates the socials  content: insta, gtihub, email, linkedin-->
+        <div class="col col-md-6">
+          <div class=" col-content-ns">
+            <div class="content">
+              <div class="contact-info">
+                <h2><u>Medias Information</u></h2>
+                <div class="Myemail-cointainer">
+                  <i class="far fa-envelope"></i>
+                  <h4>BenjaminKaganovitch@outlook.com</h4>
+                </div>
+                <div class="MyPhoneNumber-cointainer">
+                  <i class="fas fa-mobile"></i>
+                  <h4>431-338-5733</h4>
+                </div>
+                <div class="FA-icon-cointainer">
+                  <ul>
+                    <li><a href="#" target="_blank"> <i class="fab fa-github"></i></a></li>
+                    <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#" target="_blank"> <i class="fab fa-linkedin"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <div class="footer-container">
+          <div class="footer-text">
+              <h3>&#169;2022 Benjamin Kaganovitch</h3>
+          </div>
+          <div class="icons-1">
+            <a href="https://github.com/BenjaminKaganovitch" target="_blank" style="color: white; text-decoration: none !important;"><i class="fab fa-github-square"></i></a>
+            <a href="https://www.instagram.com/ben._______/" target="_blank" style="color: white; text-decoration: none !important;"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/ben-kaganovitch-400608229/" target="_blank" style="color: white; text-decoration: none !important;"><i class="fab fa-linkedin"></i></a>
+          </div>
+      </div>
+    </footer>
+    <!-- wrapper div -->
+  </div>
+</body>
+
+</html>
+
+<script>
+  function explainFUNC() {
+    alert("Sorry, email field for visual demonstration purposes only.");
+  }
+</script>

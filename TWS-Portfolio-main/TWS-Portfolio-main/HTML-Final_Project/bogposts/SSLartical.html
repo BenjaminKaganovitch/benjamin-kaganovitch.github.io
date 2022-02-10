@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Article</title>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="keywords" content="Benjamin Kaganovitch Portfolio" lang="en"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="shortcut icon" href="assets/img/ICONbig.png"/>
+    <link rel="stylesheet" href="../assets/style/article.css" media="all" />
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <header>
+                <div class="websiteLogo">
+                    <div class="websitetitle"><img src="../assets/img/LogoDarkSmallNew.png"></div>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html"> Home</a></li>
+                        <li><a href="../about-me.html"> About Me</a></li>
+                        <li><a href="../BlogDisplay.html"class="active">Blog</a></li>
+                        <li><a href="../contact-me.html" class="contact-me"> Contact Me</a></li>
+                    </ul>
+                </nav>
+
+                <div class="mobile-nav"><p><i class="fas fa-bars" title="Menu"></i></p></div>
+            </header>
+        </div>
+        
+        <div class="headerbanner ">
+            <div class="overlay">
+                <div class="container">
+                    <div class="OpeningHeader">
+                        <h2>What is SSL?</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="img-container1">
+                <img src="../assets/img/ArticalImages/internet-1237130.jpg">
+            </div>
+
+
+            <div class="text-align">
+                <h4>Introduction</h4>
+                <p> 
+                    It is now somewhat of a conversation starter to mention the internet and how there is so much dependency on corporations and governments to protect their users' data. So much so that it is pretty much an annual event to write about how the White House or Pentagon experienced a cyber breach. This write-up will discuss certain aspects of cyber security that it takes to ensure your website is up to date.
+                </p>
+
+                <h4>HTTP</h4>
+                <p>
+                    One of the most easily spotted traits of cyber security sophistication is HTTP or HTTPS; while my dad would call those the same, there is quite a significant distinction between the two. For starters, both can be vaguely described as a protocol that is the foundation for data transmission across the World Wide Web. HTTP (HyperText Transfer Protocol) is a set of instructions that operate asynchronously via a request to response. First, the client will send a request, to which the server replies with a response. All information sent is formatted in A text; these steps are HTTP transactions. 
+                </p>
+
+                <div class="img-container"><img src="../assets/img/ArticalImages/access-control-1240526.jpg"></div>
+
+                <h4>HTTPS</h4>
+                <p> 
+                    In contrast with HTTP, Hypertext Transfer Protocol Secure (HTTPS) is a newer, more secure way of transmitting data across the internet. HTTPS can easily be identified on websites by checking if there is a padlock next to the URL. Being equipped with TLS or SSL, you can think of it like that one younger sibling that consistently gets better grades than you. HTTP requests are broken up into packets while still readable text and shipped off. Problems arise when sniffers can access and read these packets using widely available software. On the contrary, HTTPS will encrypt your packets from plain text into meaningless characters, hiding away any passwords, bank details, or other information transmitted. 
+                </p>
+                <h4>Encryption</h4>
+                <p> 
+                    Just like you cannot have chemistry or physics without mathematics being the underlying backbone, no web security can exist without encryption. Encryption is how we take a readable set of text, usually private, and change it to nonsensical characters. The only way to decrypt it would be by knowing the key, which would only be shared with the authorized parties. We encounter issues when trying to do this over the internet as it is risky to share this via email in the case of middle-men intrusion. Thus we created what is called asymmetric encryption.
+                </p>
+                <div class="img-container"><img src="../assets/img/ArticalImages/EncryptionArticale.jpg"></div>
+                <br>
+                <h4>SSL & TLS</h4>
+                <p>
+                    Now that we know all our prerequisites, we must connect the dots to form the encryption-based security protocol known as Secure Sockets Layer (SSL). SSL is integrated into HTTPS that uses asymmetric encryption to encrypt all transferred information, making so any data obtained by the middle-men will be a collection of scrambled characters. SSL had been improved several times to keep up with more advanced attacks and later became the predecessor of a new security protocol, known as TLS.
+                </p>
+                <div class="img-container"><img src="../assets/img/ArticalImages/Tim3w.jpg"></div>
+            </div>
+        </div>
+        <br>
+        <br>
+
+
+        <footer>
+            <div class="footer-container">
+                <div class="footer-text"><h3>&#169;2021 Benjamin Kaganovitch</h3></div>
+                <div class="icons-1">
+                    <a><i class="fab fa-github-square"></i></a>
+                    <a><i class="fab fa-instagram"></i></a>
+                    <a><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+         </footer>
+    </div>
+</body>
+
+</html>
