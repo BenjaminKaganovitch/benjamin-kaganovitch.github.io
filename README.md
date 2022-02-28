@@ -17,6 +17,4 @@ https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/TWS-Portfolio-main/TWS-Portfolio-main/HTML-Final_Project/index.html
 
-https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/GAMEFINAL/game/index.html
-
 
