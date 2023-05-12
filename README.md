@@ -1,5 +1,5 @@
 
-## Collection of assignments and exercises from Web Development, JavaScript, OO-Javascript
+## Collection of assignments and exercises from Web Development, JavaScript
 
 ### Fahrenheit to celsius converter assignment that has conversation from Dark to Light mode:
 
