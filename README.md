@@ -1,6 +1,11 @@
 
 ## Collection of assignments and exercises from Web Development, JavaScript
 
+### Connect 4 Game
+
+https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/game/index.html
+
+
 ### Fahrenheit to celsius converter assignment that has conversation from Dark to Light mode:
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Ben_Kaganovitch_jsb_project_1_temperature/project/index.html
