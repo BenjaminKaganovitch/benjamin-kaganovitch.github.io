@@ -9,7 +9,7 @@ https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Benjamin_Kaganovitch_jsb_project_2_neumorphic_design/calculator/index.html
 
-### A guessing game where the program will respond with either higher or lower until you guess the correct number:
+### Guessing game w/ Classical Music:
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Benjamin_Kaganovitch_jsb_project_3_number_game/NumberGame/index.html
 
@@ -17,7 +17,7 @@ https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/TWS-Portfolio-main/TWS-Portfolio-main/HTML-Final_Project/index.html
 
-### Connect 4 Game
+### Connect four Game
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/game/index.html
 
