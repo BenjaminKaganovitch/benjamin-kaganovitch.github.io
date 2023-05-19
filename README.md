@@ -1,5 +1,9 @@
 
-## Collection of assignments and exercises from Web Development, JavaScript
+## Collection of assignments and projects, either thorugh MITT or PTEC
+
+### Python Machine Learning Mosquito Forecast App: 
+
+https://mosquitoforecast.web.app/
 
 ### Fahrenheit to celsius converter assignment that has conversation from Dark to Light mode:
 
