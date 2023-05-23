@@ -9,6 +9,10 @@ https://mosquitoforecast.web.app/
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Ben_Kaganovitch_jsb_project_1_temperature/project/index.html
 
+### TicTacToe:
+
+https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/TicTacToe/Index.html
+
 ### Neuromorphic calculator design with negatives and brackets functionality:
 
 https://benjaminkaganovitch.github.io/benjamin-kaganovitch.github.io/Javascript_exercises/Benjamin_Kaganovitch_jsb_project_2_neumorphic_design/calculator/index.html
